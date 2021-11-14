@@ -17,7 +17,7 @@ def check_user_input(inputstr):
             print(userinput)
             break
         else:
-            print(f"Please only use letters {userinput}")
+            print(f"Please only type letters {userinput}")
     return userinput
 
 def get_filters():
