@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-#data used
+#data used, lists and dictionaries
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv'}
@@ -17,7 +17,7 @@ def check_user_input(inputstr):
             print(userinput)
             break
         else:
-            print(f"Please only use letters {userinput}")
+            print(f"Please only type letters {userinput}")
     return userinput
 
 def get_filters():
