@@ -54,5 +54,7 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 The below websites to assist me in completing the project: 
-Stackoverflow.com
+https://www.Stackoverflow.com
 https://www.w3schools.com/python
+https://docs.github.com
+https://docs.python.org/3/ 
